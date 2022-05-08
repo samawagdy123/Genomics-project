@@ -1,4 +1,5 @@
 #Modeling for one gene
+#Deterministic model
 
 import numpy as np
 import matplotlib
