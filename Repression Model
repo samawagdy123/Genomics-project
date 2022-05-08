@@ -1,5 +1,6 @@
 #modeling for two gene
 #instead of gene1 activate gene2 now gene1 will repress gene2
+#deterministic model
 
 import matplotlib
 matplotlib.use('tkagg')
