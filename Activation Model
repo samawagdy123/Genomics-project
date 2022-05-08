@@ -1,5 +1,6 @@
 #Modeling for two gene 
 #gene1 is facilitating the expression of gene2
+#Deterministic model
 
 import matplotlib
 matplotlib.use('tkagg')
